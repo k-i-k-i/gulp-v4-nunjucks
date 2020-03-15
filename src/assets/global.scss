@@ -1,0 +1,48 @@
+@charset "utf-8";
+
+// ----------------------------
+// global
+// ----------------------------
+
+// Vendor Dependencies
+@import 'foundation/normalize';
+
+// Authored Reset
+html {
+  box-sizing: border-box;
+}
+
+* {
+  &,
+  &::before,
+  &::after {
+    box-sizing: inherit;
+  }
+}
+
+p,
+ul,
+ol,
+dl,
+dt,
+dd,
+figure {
+  margin: 0;
+  padding: 0;
+}
+
+// Authored Dependencies
+
+body {
+  color:white;
+  background-color:rgb(37, 50, 36);
+}
+
+// ----------------------------
+// Layout
+// ----------------------------
+
+
+// ----------------------------
+// component
+// ----------------------------

@@ -1,0 +1,17 @@
+{
+  "data": {
+    "sitename": "gulp-v4 nunjucks test",
+    "meta": {
+      "description": "",
+      "keywords": ""
+    },
+    "og": {
+      "type": "article",
+      "image": "/assets/img/ogp/og-def-01.png"
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "site": ""
+    }
+  }
+}
